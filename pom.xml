@@ -12,7 +12,7 @@
 	<artifactId>client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>client</name>
-	<description>Demo project for IPC POP3</description>
+	<description>Demo client for IPC POP3</description>
 
 	<properties>
 		<java.version>11</java.version>
